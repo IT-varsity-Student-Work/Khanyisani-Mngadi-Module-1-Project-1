@@ -1,0 +1,10 @@
+th{
+    border-bottom-color: darkblue;
+    background-color: darkcyan;
+    font-family: cursive;
+    
+}
+td{
+    border-bottom-color: darkgreen;
+    background-color: beige;
+}
